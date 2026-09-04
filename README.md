@@ -2,8 +2,6 @@
 
 Single-page catalog website for **Iftikhar Electronics**, Darya Khan — a solar panel, home appliance and electronics retailer. The site showcases 15 product categories with WhatsApp-based ordering, built as one self-contained HTML file.
 
-**Live site:** https://iftikharelectronics.pk/
-
 ---
 
 ## Overview
