@@ -22,7 +22,6 @@ Single-page catalog website for **Iftikhar Electronics**, Darya Khan — a solar
 | Location | Bhakkar Road, opposite MCB Bank, Darya Khan |
 | Phone / WhatsApp | 0346 0642661 |
 | Email | iftikhardarya2015@gmail.com |
-| Website | https://iftikharelectronics.pk/ |
 
 ---
 
